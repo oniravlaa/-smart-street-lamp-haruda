@@ -57,7 +57,7 @@
 
 ### ⚡ Wiring Diagram - Sistem 12V DC
 
-[Wiring Diagram](docs/Wiring_Diagram_Solar_PJU.png)
+[Wiring Diagram](docs/wiring.jpg)
 
 ```
 Alur: Solar Panel 100Wp -> SCC PWM 10A -> Baterai LiFePO4 20Ah -> Fuse 10A -> Photocell 12V -> LED 20W
