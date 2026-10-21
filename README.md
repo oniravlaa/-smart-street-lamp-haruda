@@ -72,37 +72,10 @@ OUT+ (Merah) & OUT- (Hitam) ke Lampu LED
 - **Malam:** Photocell deteksi gelap -> Relay ON -> Lampu nyala otomatis
 - **Pagi:** Photocell deteksi terang -> Lampu mati, kembali charging
 
-### 📂 Struktur Repository
-
-```
-smart-street-lamp-haruda/
-├── README.md (file ini)
-├── docs/
-│   ├── Poster_Group_2.png
-│   ├── GuideBook_Group_2.pdf (User Manual HARUDA)
-│   ├── Wiring_Diagram_Solar_PJU.png
-│   ├── Group_Purchasing_Material_Report_-_GROUP_2.pdf (RAB Real)
-│   └── foto-lapangan/ (before/after instalasi)
-├── hardware/
-│   ├── BOM.md
-│   └── datasheet/
-├── .gitignore
-└── LICENSE
-```
-
-### 📸 Dokumentasi Lapangan
-
-- `01-before-jalan-gelap.jpg`
-- `02-proses-gali-pondasi.jpg`
-- `03-pemasangan-tiang-hollow.jpg`
-- `04-wiring-box-panel.jpg`
-- `05-tes-nyala-malam.jpg`
-
 Panduan instalasi lengkap ada di `docs/GuideBook_Group_2.pdf`
 
 ### 📄 Lisensi & Penggunaan
-
-MIT License - © 2026 Group 2 HARUDA - CSL Telkom University x UTP
+© 2026 Group 2 HARUDA - CSL Telkom University x UTP
 Boleh digunakan untuk edukasi dan pengembangan desa selanjutnya.
 
 ---
