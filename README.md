@@ -74,6 +74,13 @@ OUT+ (Merah) & OUT- (Hitam) ke Lampu LED
 
 Panduan instalasi lengkap ada di `docs/GuideBook_Group_2.pdf`
 
+### 📸 Dokumentasi Lapangan - Desa Margamukti, Pangalengan
+
+![Proses Angkut Tiang](docs/foto-lapangan/01-proses-angkut-tiang.jpg)
+![Foto Tim HARUDA](docs/foto-lapangan/team-group-pose.jpg)
+![Hasil Pemasangan PJU](docs/foto-lapangan/03-hasil-pemasangan-pju.jpg)
+![Foto Bersama Warga](docs/foto-lapangan/02-team-dengan-warga-dan-pju.jpg)
+
 ### 📄 Lisensi & Penggunaan
 © 2026 Group 2 HARUDA - CSL Telkom University x UTP
 Boleh digunakan untuk edukasi dan pengembangan desa selanjutnya.
