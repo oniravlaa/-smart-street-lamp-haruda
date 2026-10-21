@@ -92,7 +92,6 @@ smart-street-lamp-haruda/
 
 ### 📸 Dokumentasi Lapangan
 
-Taruh foto di `docs/foto-lapangan/`:
 - `01-before-jalan-gelap.jpg`
 - `02-proses-gali-pondasi.jpg`
 - `03-pemasangan-tiang-hollow.jpg`
