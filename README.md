@@ -11,7 +11,7 @@
 
 - **Program:** Community Service Learning (CSL) 2026 - Telkom University x Universiti Teknologi Petronas
 - **Lokasi:** Desa Margamukti, Kecamatan Pangalengan, Kabupaten Bandung, Provinsi Jawa Barat
-- **Periode Pelaksanaan:** 29 - 31 Agustus 2026
+- **Periode Pelaksanaan:** 26 Agustus - 2 September 2026
 - **Sistem:** 12V DC Solar PJU Otomatis
 
 ### 👥 Our Team - Kelompok 2 HARUDA
